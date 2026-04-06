@@ -15,7 +15,7 @@ URL = "https://www.medway.gov.uk"
 TEST_CASES = {
     "known_uprn": {"uprn": "100062390963"},
     "known_uprn_as_number": {"uprn": 100062390963},
-    "by_postcode": {"postcode": "ME4 4AY", "housenameornumber": "35"},
+    "by_postcode": {"postcode": "ME4 4AY", "housenameornumber": "194"},
 }
 
 ICON_MAP = {
