@@ -32,7 +32,7 @@ waste_collection_schedule:
   sources:
     - name: medway_gov_uk
       args:
-        uprn: "44039814"
+        uprn: "100062390963"
 ```
 
 ```yaml
@@ -40,8 +40,8 @@ waste_collection_schedule:
   sources:
     - name: medway_gov_uk
       args:
-        postcode: "ME4 6RF"
-        housenameornumber: "35"
+        postcode: "ME4 4AY"
+        housenameornumber: "194"
 ```
 
 ## How to find your UPRN
