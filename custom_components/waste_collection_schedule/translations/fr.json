@@ -22991,6 +22991,7 @@
         "description": "Configurez votre fournisseur de services. {howto}Plus de détails : {docs_url}.",
         "data": {
           "calendar_title": "Titre du Calendrier",
+          "council": "Conseil",
           "postcode": "Code postal",
           "uprn": "UPRN"
         },
@@ -23004,6 +23005,7 @@
         "description": "Configurez votre fournisseur de services. {howto}Plus de détails : {docs_url}.",
         "data": {
           "calendar_title": "Titre du Calendrier",
+          "council": "Conseil",
           "postcode": "Code postal",
           "uprn": "UPRN"
         },

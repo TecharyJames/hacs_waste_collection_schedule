@@ -22949,6 +22949,7 @@
         "description": "Compila i campi per ottenere le informazioni sul tuo servizio di raccolta. {howto}Maggiori informazioni: {docs_url}.",
         "data": {
           "calendar_title": "Nome Calendario",
+          "council": "Consiglio",
           "postcode": "Codice Postale CAP",
           "uprn": "UPRN"
         },
@@ -22962,6 +22963,7 @@
         "description": "Compila i campi per ottenere le informazioni sul tuo servizio di raccolta. {howto}Per maggiori informazioni: {docs_url}.",
         "data": {
           "calendar_title": "Nome Calendario",
+          "council": "Consiglio",
           "postcode": "Codice Postale CAP",
           "uprn": "UPRN"
         },

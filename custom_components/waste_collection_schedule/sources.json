@@ -24003,7 +24003,7 @@
       "id": "south_norfolk_and_broadland_gov_uk"
     },
     {
-      "title": "Bromsgrove City Council",
+      "title": "Bromsgrove & Redditch Councils",
       "module": "bromsgrove_gov_uk",
       "default_params": {},
       "id": "bromsgrove_gov_uk"
@@ -25241,6 +25241,14 @@
         "split_at": "\\, (?:and )?|(?: and )"
       },
       "id": "ics_recollect"
+    },
+    {
+      "title": "Redditch Borough Council",
+      "module": "bromsgrove_gov_uk",
+      "default_params": {
+        "council": "redditch"
+      },
+      "id": "bromsgrove_gov_uk"
     },
     {
       "title": "Reigate & Banstead Borough Council",

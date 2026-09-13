@@ -3619,7 +3619,7 @@ If you already have enough information for your municipality/region, you are ver
 - [Bridgend County Borough Council](/doc/source/bridgend_gov_uk.md) / bridgend.gov.uk
 - [Bristol City Council](/doc/source/bristol_gov_uk.md) / bristol.gov.uk
 - [Broadland District Council](/doc/source/south_norfolk_and_broadland_gov_uk.md) / area.southnorfolkandbroadland.gov.uk
-- [Bromsgrove City Council](/doc/source/bromsgrove_gov_uk.md) / bromsgrove.gov.uk
+- [Bromsgrove & Redditch Councils](/doc/source/bromsgrove_gov_uk.md) / bromsgrove.gov.uk
 - [Broxtowe Borough Council](/doc/source/broxtowe_gov_uk.md) / broxtowe.gov.uk
 - [Buckinghamshire: Formerly (Chiltern, South Bucks, Wycombe)](/doc/source/iapp_itouchvision_com.md) / buckinghamshire.gov.uk
 - [Burnley Council](/doc/source/burnley_gov_uk.md) / burnley.gov.uk
@@ -3821,6 +3821,7 @@ If you already have enough information for your municipality/region, you are ver
 - [Reading Council](/doc/source/reading_gov_uk.md) / reading.gov.uk
 - [Redbridge Council](/doc/source/redbridge_gov_uk.md) / redbridge.gov.uk
 - [Redcar & Cleveland, UK](/doc/ics/recollect.md) / redcar-cleveland.gov.uk
+- [Redditch Borough Council](/doc/source/bromsgrove_gov_uk.md) / redditchbc.gov.uk
 - [Reigate & Banstead Borough Council](/doc/source/reigatebanstead_gov_uk.md) / reigate-banstead.gov.uk
 - [Renfrewshire Council](/doc/source/renfrewshire_gov_uk.md) / renfrewshire.gov.uk
 - [Rhondda Cynon Taf County Borough Council](/doc/source/rctcbc_gov_uk.md) / rctcbc.gov.uk

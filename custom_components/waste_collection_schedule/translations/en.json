@@ -24085,6 +24085,7 @@
         "description": "Configure your service provider. {howto}More details: {docs_url}.",
         "data": {
           "calendar_title": "Calendar Title",
+          "council": "Council",
           "postcode": "Postcode",
           "uprn": "UPRN"
         },
@@ -24098,6 +24099,7 @@
         "description": "Configure your service provider. {howto}More details: {docs_url}.",
         "data": {
           "calendar_title": "Calendar Title",
+          "council": "Council",
           "postcode": "Postcode",
           "uprn": "UPRN"
         },
