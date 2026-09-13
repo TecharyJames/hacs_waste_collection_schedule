@@ -23712,6 +23712,15 @@
       "id": "sammelkalender_ch"
     },
     {
+      "title": "Zofingen",
+      "module": "localcities_ch",
+      "default_params": {
+        "municipality": "zofingen",
+        "municipality_id": "5741"
+      },
+      "id": "localcities_ch"
+    },
+    {
       "title": "Zuzwil",
       "module": "zab_ch",
       "default_params": {

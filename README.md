@@ -3568,6 +3568,7 @@ If you already have enough information for your municipality/region, you are ver
 - [Zeba](/doc/source/sammelkalender_ch.md) / zebazug.ch
 - [Zihlschlacht-Sitterdorf](/doc/source/kvatg_ch.md) / kvatg.ch
 - [ZKRI](/doc/source/sammelkalender_ch.md) / zkri.ch
+- [Zofingen](/doc/source/localcities_ch.md) / zofingen.ch
 - [Zuzwil](/doc/source/zab_ch.md) / zab.citymobile.ch
 </details>
 
