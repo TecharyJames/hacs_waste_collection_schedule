@@ -3426,6 +3426,7 @@ If you already have enough information for your municipality/region, you are ver
 - [Gaiserwald](/doc/source/a_region_ch.md) / a-region.ch
 - [Gasel](/doc/source/koeniz_ch.md) / koeniz.citymobile.ch
 - [Gemeinde Hochfelden](/doc/ics/hochfelden_ch.md) / hochfelden.ch
+- [Gemeinde Maur](/doc/source/maur_ch.md) / maur.ch/themen/bauen-umwelt/abfall-recycling/termine.html
 - [Gemeinde Muttenz](/doc/source/muttenz_ch.md) / muttenz.ch
 - [Gemeinde Seuzach](/doc/source/seuzach_ch.md) / seuzach.ch
 - [Gemeinde Würenlos](/doc/ics/wuerenlos_ch.md) / wuerenlos.ch

@@ -4873,6 +4873,11 @@
     },
     "urls": {}
   },
+  "maur_ch": {
+    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/maur_ch.md",
+    "howto": {},
+    "urls": {}
+  },
   "muttenz_ch": {
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/muttenz_ch.md",
     "howto": {

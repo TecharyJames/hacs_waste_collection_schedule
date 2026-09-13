@@ -22618,6 +22618,12 @@
       "id": "ics_hochfelden_ch"
     },
     {
+      "title": "Gemeinde Maur",
+      "module": "maur_ch",
+      "default_params": {},
+      "id": "maur_ch"
+    },
+    {
       "title": "Gemeinde Muttenz",
       "module": "muttenz_ch",
       "default_params": {},
